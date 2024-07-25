@@ -1,7 +1,7 @@
 nome = 'Magno'
 sobrenome = 'Veras'
-idade = 36
-ano_nascimento = 2024-36
+idade = 17
+ano_nascimento = 2024-idade
 maior_de_idade = idade >= 18
 altura_metros = 1.84
 
